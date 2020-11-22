@@ -8,7 +8,7 @@ using Vector4 = UnityEngine.Vector4;
 using Matrix4x4 = UnityEngine.Matrix4x4;
 using Ray = UnityEngine.Ray;
 using Quaternion = UnityEngine.Quaternion;
-using Mathf = UnityEngine.Mathf;
+using Mathf = UnityEngine.Mathf; 
 
 namespace RealtimeCSG.Legacy
 {
