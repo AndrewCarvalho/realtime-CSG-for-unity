@@ -1,0 +1,17 @@
+{
+    "name": "LogicalError.RealtimeCSGEditor",
+    "references": [
+        "GUID:97ac4806920bae94da2b692373f8e2cb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
