@@ -26,8 +26,8 @@ namespace RealtimeCSG
         {
             get
             {
-                if( m_InfoGUIBGTex == null )
-                    m_InfoGUIBGTex = Resources.Load<Texture2D>( "GUI/infobg_blk" );
+                if ( m_InfoGUIBGTex == null )
+                    m_InfoGUIBGTex = AssetDatabase.LoadAssetAtPath<Texture2D>("Packages/com.logicalerror.realtimecsg/Editor/EditorAssets/GUI/infobg_blk.png");
 
                 return m_InfoGUIBGTex;
             }
