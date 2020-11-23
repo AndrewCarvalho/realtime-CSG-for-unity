@@ -1,0 +1,14 @@
+{
+  "name": "com.logicalerror.realtimecsg",
+  "author": 
+    {
+        "name": "LogicalError",
+        "url": "https://github.com/LogicalError/realtime-CSG-for-unity"
+    },
+  "displayName": "RealtimeCSG",
+  "version": "1.0.562",
+  "unity": "2018.4",
+  "description": "Realtime CSG is a 'BSP' level design tool that allows you to Intuitively & rapidly create levels.",
+  "keywords": [ "CSG", "BSP", "level design", "logicalerror" ],
+  "category": "design"
+}
